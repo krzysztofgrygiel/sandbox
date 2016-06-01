@@ -1,0 +1,4 @@
+record: <
+  key: <namespace: 'main' setting: 'foo'>
+  value: <int_value: 2>
+>
